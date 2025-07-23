@@ -13,7 +13,8 @@ const About = () => {
             <p className='mid'>
             Food is more than just sustenance; it’s an experience that brings people together. From the rich, creamy textures of a well-made pasta dish to the bold, fiery kick of a perfectly spiced curry, every bite tells a story. The aroma of freshly baked bread filling a kitchen can evoke feelings of warmth and nostalgia, while the crunch of a crisp apple offers a refreshing contrast to a hot summer day. Whether it’s the comforting embrace of homemade soup on a cold evening or the indulgence of a decadent chocolate dessert, food has t.
             </p>
-        <Link to={"/"}>Explore Menu <span>   
+        <Link to={"/"}>
+      Explore Menu { " "} <span>   
           <HiOutlineArrowNarrowRight/>      
         </span>
         </Link>

@@ -6,6 +6,7 @@ import Menu from '../components/Menu'
 import Whoweare from '../components/Whoweare'
 import Team from  '../components/Team'
 import Reservation from '../components/Reservation'
+import Footer from '../components/Footer'
 const Home = () => {
   return (
     <>
@@ -16,6 +17,7 @@ const Home = () => {
      <Whoweare/>
      <Team/>
      <Reservation/>
+    <Footer />
     </>
   )
 }
