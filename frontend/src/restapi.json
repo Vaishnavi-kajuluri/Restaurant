@@ -7,19 +7,21 @@
              "id":1,
              "image":"/quality_food.svg",
              "title":"QUALITY FOOD",
-             "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat."
+             "description":"We use only the freshest ingredients and authentic recipes to bring you meals that are not just delicious but also healthy and satisfying."
            },
            {
                "id":2,
              "image":"/super_taste.svg",
              "title":"SUPER TASTE",
-             "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat."
+             "description":"Every dish is crafted with passion and care, ensuring rich flavors and a delightful taste experience you will  remember."
+
+
            },
            {
              "id":3,
              "image":"/fast_delivery.svg",
              "title":"FAST DELIVERY",
-             "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat."
+             "description":"LYour favorite meals delivered hot and fresh, right to your doorstep — quickly and reliably, so you never have to wait long."
            }
          ],
          "dishes":[
